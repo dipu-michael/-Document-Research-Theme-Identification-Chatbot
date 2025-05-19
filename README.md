@@ -55,4 +55,7 @@ AiInternTask/
 git clone https://github.com/dipu-michael/wasserstoff.git
 cd wasserstoff
 
+## 🧪 Sample Files
+
+See `/samples/` folder for test PDFs and images you can use with this app.
 
