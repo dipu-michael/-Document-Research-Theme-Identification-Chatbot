@@ -56,6 +56,11 @@ git clone https://github.com/dipu-michael/wasserstoff.git
 cd wasserstoff
 
 ## 🧪 Sample Files
+## Huggingface link
+https://huggingface.co/spaces/Dipu-Michael/ai-intern-task
+
+##Demo video
+https://www.loom.com/share/2b9e9b21e6b84eb88731ebbded92081c?sid=a296930a-8f8d-45fd-ba4d-daebb049fbce
 
 See `/samples/` folder for test PDFs and images you can use with this app.
 
