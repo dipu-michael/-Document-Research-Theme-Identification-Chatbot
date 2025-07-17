@@ -1,4 +1,4 @@
-# 📚 Wasserstoff AI Intern Task: Document Research & Theme Identification Chatbot
+Document Research & Theme Identification Chatbot
 
 This project is a Streamlit-based AI chatbot that performs intelligent research across a large set of uploaded documents. It extracts content from PDFs and scanned images, stores them in a vector database, and answers user queries using GPT-4. It can also identify and summarize **common themes** across multiple documents.
 
